@@ -510,7 +510,7 @@ MIT — use it however you want. Build products with it. Integrate it into your 
 
 <div align="center">
 
-Built with ☕ and genuine concern about AI voice cloning by **Manas Mourya**
+Built with ☕ and genuine concern about AI voice cloning by **venkatamanas Raghupatruni**
 
 If this helped you, a ⭐ on the repo goes a long way.
 
